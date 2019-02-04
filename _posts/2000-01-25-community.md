@@ -1,6 +1,6 @@
 ---
 title: "Community"
-bg: purple
+bg: pred
 color: black
 fa-icon: user
 style: center

@@ -32,6 +32,12 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  pred: '#ffb3ba'
+  porange: '#ffdfba'
+  pyellow: '#ffffba'
+  pgreen: '#baffc9'
+  pblue: '#bae1ff'
+
 
 kramdown:
   auto_ids:  false

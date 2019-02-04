@@ -1,6 +1,6 @@
 ---
 title: "publications"
-bg: orange
+bg: pgreen
 color: black
 fa-icon: book
 ---
