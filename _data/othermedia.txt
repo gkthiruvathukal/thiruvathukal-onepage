@@ -1,0 +1,43 @@
+print:
+- publication: VentureBeat
+  title: How AI is Bringing Hollywood to Life
+  url: http://venturebeat.com/2016/12/09/how-ai-is-bringing-hollywood-to-life/
+  date: 2016-12-09
+- publication: EdTech Digest
+  title: Beyond Pythagoras
+  url: https://edtechdigest.wordpress.com/2016/12/16/beyond-pythagoras/
+  date: 2016-12-16
+
+    16 December 2016
+-   Robotics Tomorrow, [Robotics 101 at Loyola University
+    Chicago](http://www.roboticstomorrow.com/article/2016/10/robotics-101-at-loyola-university/9027),
+    3 November 2016
+-   SC Media, [Vulnerabilities Exist but so do
+    Safeguards](https://www.scmagazine.com/vulnerabilities-exist-but-so-do-safeguards/article/571902/),
+    9 November 2016
+-   *ZDNet*, [Can AI really be ethical and
+    unbiased?](http://www.zdnet.com/article/can-ai-really-be-ethical-and-unbiased/), 16
+    October 2016
+-   *Philadelphia
+    Inquirer,[ ](http://articles.philly.com/2015-04-24/news/61462592_1_insulators-transistors-computer)*[Penn
+    physicists honored for work that could take heat out of
+    computing](http://articles.philly.com/2015-04-24/news/61462592_1_insulators-transistors-computer),
+    24 April 2015
+-   *IT World*, [Meet the IT Dream
+    Team](http://www.itworld.com/article/2902274/who-do-you-want-on-your-it-dream-team.html),
+    26 March 2015 
+-   *Computer Weekly*, [If the Year of Code has got it wrong, how should
+    we teach kids to code?](http://goo.gl/1idy5U), 17 February 2014
+-   *Dell TechPageOne*, [Internet of Things will require data centers of
+    all sizes](http://goo.gl/336n7s), 24 June 2014
+-   *Forbes*, [Does the Internet of Things Need Its Own
+    Network?](http://goo.gl/MuWGvY), 3 July 2014
+-   *The Telegraph UK*, [Google Glass: the next big gaming
+    platform?](http://goo.gl/SuYMpy), 12 August 2013
+-   *Times of London*, [Computers with a Sense of
+    Humour?](http://goo.gl/ToFpOC), 4 September 2013
+-   *Fast Company Co.Create*, [The Social Living Room: How Nintendo’s
+    Wii Revolutionized Gaming and What it Means for the Future of
+    Consoles](http://goo.gl/1dIvDp), 7 June 2012
+-   *ACM/IEEE Supercomputing 2012*, [IEEE News Release for
+    Supercomputing 2012](http://goo.gl/309AQp), 12 November 2012

@@ -1,0 +1,9 @@
+items:
+- type: book
+  text: Books
+- type: conference
+  text: Conference Papers
+- type: article
+  text: General Articles
+- type: presentation
+  text: Presentations

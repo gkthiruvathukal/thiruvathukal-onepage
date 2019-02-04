@@ -1,0 +1,60 @@
+items:
+- date: 2016-12-09
+  publication: VentureBeat
+  title: How AI is Bringing Hollywood to Life
+  url: http://venturebeat.com/2016/12/09/how-ai-is-bringing-hollywood-to-life/
+  date: 2016-12-09
+- date: 2016-12-16
+  publication: EdTech Digest
+  title: Beyond Pythagoras
+  url: https://edtechdigest.wordpress.com/2016/12/16/beyond-pythagoras/
+- date: 2016-11-03
+  publication: Robotics Tomorrow
+  title: Robotics 101 at Loyola University Chicago
+  url: http://www.roboticstomorrow.com/article/2016/10/robotics-101-at-loyola-university/9027
+- date: 2016-11-09
+  publication: SC Media
+  title: Vulnerabilities Exist but so do Safeguards
+  url: https://www.scmagazine.com/vulnerabilities-exist-but-so-do-safeguards/article/571902/
+- date: 2016-10-16
+  publication: ZDNet
+  title: Can AI really be ethical and unbiased?
+  url: http://www.zdnet.com/article/can-ai-really-be-ethical-and-unbiased/
+- publication: Philadelphia Inquirer
+  url: http://articles.philly.com/2015-04-24/news/61462592_1_insulators-transistors-computer
+  title: Penn physicists honored for work that could take heat out of computing
+  date: 2015-04-24
+- publication: Fast Company Co.Create
+  title: "The Social Living Room: How Nintendo\'s Wii Revolutionized Gaming and What it Means for the Future of Consoles"
+  url: http://goo.gl/1dIvDp
+  date: 2012-06-07
+- publication: IT World
+  title: Meet the IT Dream Team
+  url: http://www.itworld.com/article/2902274/who-do-you-want-on-your-it-dream-team.html
+  date: 2015-03-26 
+- publication: Computer Weekly
+  title: If the Year of Code has got it wrong, how should we teach kids to code?
+  url: http://goo.gl/1idy5U
+  date: 2014-02-17
+- publication: Dell TechPageOne
+  title: Internet of Things will require data centers of all sizes
+  url: http://goo.gl/336n7s
+  date: 2014-06-24
+- publication: Forbes
+  title: Does the Internet of Things Need Its Own Network?
+  url: http://goo.gl/MuWGvY
+  date: 2014-07-03
+- publication: The Telegraph UK
+  title: 'Google Glass the next big gaming platform?'
+  url: http://goo.gl/SuYMpy
+  date: 2013-08-12
+- publication: Times of London
+  title: Computers with a Sense of Humour
+  url: http://goo.gl/ToFpOC
+  date: 2013-09-04
+- publication: ACM/IEEE Supercomputing 2012
+  title: IEEE News Release for Supercomputing 2012
+  url: http://goo.gl/309AQp
+  date: 2012-11-12
+
+
