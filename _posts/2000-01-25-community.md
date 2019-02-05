@@ -11,6 +11,8 @@ style: center
 
 ### Conferences
 
+Program Committeee, [ParCo 2019](http://www.parco.org/)
+
 Co-Chair, [Special Technical Community in Broadening Participation](http://stcbp.org)
 
 Co-Chair, [RESPECT 2015 Conference](http://respect2015.stcbp.org)
